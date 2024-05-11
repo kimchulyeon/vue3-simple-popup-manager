@@ -4,6 +4,10 @@
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kimchulyeon/vue3-simple-popup-manager"
+  },
   "files": [
     "dist"
   ],

@@ -6,7 +6,7 @@ export default defineConfig({
   build: {
     lib: {
       entry: "./src/index.ts",
-      name: "VuePopupManager",
+      name: "Vue3SimplePopupManager",
       fileName: (format) => `vue-popup-manager.${format}.js`,
     },
     rollupOptions: {
