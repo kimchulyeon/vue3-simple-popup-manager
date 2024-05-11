@@ -1,0 +1,23 @@
+{
+  "name": "vue-popup-manager",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "vite build"
+  },
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.x",
+    "vite": "^2.x"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^2.3.3"
+  }
+}
